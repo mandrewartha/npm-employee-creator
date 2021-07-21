@@ -9,5 +9,5 @@ This node application was built using test driven design. NPM Inquirer and Jest 
 ![image](https://user-images.githubusercontent.com/84876493/126571050-b6bb04a8-c6fe-466a-909d-7b85226211d5.png)
 
 ## Links
-The completed app can be found at:
+The completed app can be found at: https://mandrewartha.github.io/npm-employee-creator/
 A vide walkthrough can be found at: https://drive.google.com/file/d/1HDU41B0jdLPhKMKj-LWImhU0Za0duROq/view
